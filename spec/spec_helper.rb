@@ -1,0 +1,1 @@
+require 'nyan_nyan_cats'
